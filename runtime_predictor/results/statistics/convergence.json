@@ -1,0 +1,6 @@
+{
+    "MAPE<0.2": null,
+    "Loss<0.05": null,
+    "R2>0.8": null,
+    "FullEpoch": 20
+}

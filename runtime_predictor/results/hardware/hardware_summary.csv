@@ -1,0 +1,8 @@
+metric,value
+epochs,100.0
+batches,50.0
+fwd_flops,113664.0
+bwd_flops,227328.0
+it_flops,340992.0
+total_flops,1704960000.0
+energy(J),0.00681984
