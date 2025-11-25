@@ -16,15 +16,10 @@ It:
 
 No PyTorch or TensorFlow are used.
 
-## 1. Install
+In vs code terminal 
 
-```bash
-cd runtime-predictor
+cd runtime_predictor
 
-python -m venv .venv
-# On Linux/macOS:
-source .venv/bin/activate
-# On Windows:
-# .venv\Scripts\activate
+pip install -r requirements.txt       
 
-pip install -r requirements.txt
+python main.py
